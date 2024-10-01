@@ -55,7 +55,7 @@ const Footer = () => {
             <div>
               <p className='mb-3'> Dhaka, Bangladesh </p>
               <div className='flex items-center gap-3 mt-6'>
-              <a href="#">
+              <a href="https://github.com/Nuzhat-here/Magic-Shop.git">
                     <FaGithub className="text-3xl hover:text-white duration-300" />
                   </a>
                   <a href="#">
